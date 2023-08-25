@@ -4,6 +4,10 @@
 
 This is a placeholder for associated code and datasets used in this work.
 
+* GASX - flow recovery from large PCAP archives
+* Inspector - flow analysis, including payload entropy calculation per service type
+* HTn - flow simulation environment, based on statistical analysis of distributions, Transformer, GAN and Copula models
+
 
 ## Related Publications
 
