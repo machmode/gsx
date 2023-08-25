@@ -1,4 +1,4 @@
-# gsx
+# GSX
 
 ## Flow based research and datasets
 
